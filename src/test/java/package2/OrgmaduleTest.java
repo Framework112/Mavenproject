@@ -17,6 +17,8 @@ public class OrgmaduleTest {
 	{
 		System.out.println("executed");
 		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
 	}
 
 }
