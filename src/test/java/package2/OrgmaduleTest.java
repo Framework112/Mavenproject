@@ -8,6 +8,9 @@ public class OrgmaduleTest {
 	{
 		System.out.println("executed");
 		System.out.println("hi");
+		System.out.println("hihh");
+
+		
 	}
 	@Test
 	public void orgphonemaduleTest()
